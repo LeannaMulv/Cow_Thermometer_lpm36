@@ -1,3 +1,5 @@
+# cite: https://classes.engineering.wustl.edu/ese205/core/index.php?title=Serial_Communication_between_Raspberry_Pi_%26_Arduino
+
 #!/usr/bin/env python
 # coding: utf-8
 
