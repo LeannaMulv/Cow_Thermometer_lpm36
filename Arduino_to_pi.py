@@ -7,7 +7,7 @@
 import serial
 ser = serial.Serial('/dev/ttyUSB0', 9600)
 while 1: 
-    if(ser.in_waiting >10):
+    if(ser.in_waiting >100):
         line = ser.readline()
         print(line)
 
